@@ -1,0 +1,3 @@
+# [How To Select HTML Elements to Style with CSS](https://www.digitalocean.com/community/tutorials/how-to-select-html-elements-to-style-with-css)
+
+This tutorial covers the different ways to select HTML elements with CSS. One way to select HTML elements is using the *type selector*. Using the *type selector* applies styles to every HTML element of that type. Another way to select HTML is the *combinator selector*. When selecting elements with a specific parent-child relationship the *combinator selector* is used. Additionally, using the *group selector* makes it possible to apply styles to elements of different types.   
