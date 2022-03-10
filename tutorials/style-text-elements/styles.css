@@ -3,14 +3,17 @@ body {
   font-size: 18px;
   color: DarkSlateGray;
 }
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Quicksand", sans-serif;
   font-weight: 600;
 }
+
 h1 {
 	font-size: 250%; /* 45px */
   color: Indigo;
 }
+
 h2 {
 	font-size: 200%; /* 36px */
 	color: MediumVioletRed;
@@ -35,9 +38,11 @@ h6 {
 	font-size: 100%; /* 18px */
 	color: DeepSkyBlue;
 }
+
 h3 {
 	font-weight: 700;
 }
+
 strong em,
 em strong {
 	font-family: "Quicksand", sans-serif;
