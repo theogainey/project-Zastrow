@@ -1,0 +1,3 @@
+# [How To Style Text Elements with Font, Size, and Color in CSS](https://www.digitalocean.com/community/tutorials/how-to-style-text-elements-with-font-size-and-color-in-css)
+
+This tutorial is an introduction to styling text elements with CSS. First this tutorial demonstrates how a web browser uses the font stack, the `font-family` property, and linked and default fonts to assign a font to a text element. Next this tutorial shows how the `font-size`, `font-weight`, and `font-style` properties are used to style text elements. Finally, this tutorial covers how proper use of the font-color property can add meaning to text content.    
