@@ -1,3 +1,3 @@
-# [How To Work with the Box Model in CSS](https://www.digitalocean.com/community/tutorials/how-to-apply-css-styles-to-html-with-cascade-and-specificity)
+# [How To Work with the Box Model in CSS](https://www.digitalocean.com/community/tutorials/how-to-work-with-the-box-model-in-css)
  
  This tutorial introduces the box model. The box model is the ruleset a browser uses to determine an element’s size and how it interacts with other elements. The box model is made up of margin, padding, border, width, and height properties. Additionally the way that uses these values can be altered by applying the `box-sizing: border-box;` property. The biggest takeaway from this tutorial is that much of the time `margin: auto` is all that is needed to horizontally center content. 
