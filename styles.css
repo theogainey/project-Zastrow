@@ -1,7 +1,18 @@
+* {
+	box-sizing: border-box;
+}
+
 body {
   font-family: "Roboto", sans-serif;
 }
-
+div {
+  padding: 30px 30px;
+	width: 480px;
+	margin: 20px auto 60px;
+}
+li{
+  margin: 10px 0px;
+}
 h1,
 h2 {
   font-weight: 700;
