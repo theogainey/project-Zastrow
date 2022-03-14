@@ -1,37 +1,41 @@
-* {
-	box-sizing: border-box;
-}
 :root{
 	font-size: 20px;
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font: 1rem/1.5 "Roboto", sans-serif;
 }
 div {
+  box-sizing: border-box;
   padding: 30px 30px;
 	width: 80%;
-	max-width: 30rem;
+  max-width: 70ch;
 	margin: 20px auto 60px;
 }
 
 li{
-  margin: 10px 0px;
+  margin: 0.5rem auto;
 	font-size: 1rem;
+  text-transform: capitalize;
 }
+
 h1,
 h2 {
   font-weight: 700;
   color: navy;
+  margin-top: 2rem;
+  line-height: 1.15;
 }
 
 h1 {
   font-size: 1.5rem;
+  text-align: center;
 }
 
 
 h2{
   font-size: 1.25rem;
+  text-transform: uppercase;
 }
 
 ul li {
