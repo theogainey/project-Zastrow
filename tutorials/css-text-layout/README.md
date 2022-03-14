@@ -1,0 +1,3 @@
+# [How To Lay Out Text with CSS](https://www.digitalocean.com/community/tutorials/how-to-lay-out-text-with-css)
+
+This tutorial covers how to use CSS to affect the presentation of text. Presentation is important for text because it affects readability.  For example the ideal line length, for readability, is between 45 and 75 characters. Also setting consistent spacing, capitalization, and alignment will help improve text readability. 
