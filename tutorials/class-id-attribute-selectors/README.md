@@ -1,0 +1,3 @@
+# [How To Select HTML Elements Using ID, Class, and Attribute Selectors in CSS](https://www.digitalocean.com/community/tutorials/how-to-select-html-elements-using-id-class-and-attribute-selectors-in-css#using-the-class-selector)
+
+In this tutorial CSS id, class, and attribute selectors are introduced.  These selectors allow for selecting elements without using HTML tag type to make selections. CSS id selectors are useful for selecting a unique element among similar elements. CSS class selectors bring the ability to select many elements of different tag types. Finally CSS attribute selectors allow for selecting elements based on element attributes. This can be useful in certain situations such as styling internal and external links differently.  
