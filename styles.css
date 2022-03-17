@@ -17,21 +17,51 @@ section {
   background-color: white;
   padding: 30px 30px;
 	margin: 20px auto 60px;
+}
+section {
+  background-color: white;
+  padding: 30px 30px;
+	margin: 20px auto 60px;
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 >>>>>>> 929408d52084836f2a31977d52dec0af6e2a7cd9
 }
 li{
+=======
+ul {
+  padding-left: 0rem;
+  list-style: none;
+}
+
+li {
+  font-weight: 400;
+>>>>>>> 04013ac (feat: style homepage)
   margin: 0.5rem auto;
 	font-size: 1rem;
   text-transform: capitalize;
 }
 
+<<<<<<< HEAD
 h1,
 h2 {
   font-weight: 700;
   margin-top: 2rem;
+=======
+li a {
+  color: rgb(17, 84, 156);
+}
+
+li a:hover,
+li a:focus {
+ color: hsl(0, 65%, 51%);
+}
+
+h1,
+h2 {
+  font-weight: 700;
+>>>>>>> 04013ac (feat: style homepage)
   line-height: 1.15;
   color: rgb(17, 84, 156);
 }
@@ -48,10 +78,13 @@ h2{
   text-transform: uppercase;
 }
 
+<<<<<<< HEAD
 ul li {
   font-weight: 400;
 }
 
+=======
+>>>>>>> 04013ac (feat: style homepage)
 hr {
   height: 0.25rem;
 	margin: .25rem auto;
