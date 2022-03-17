@@ -17,6 +17,10 @@ section {
   background-color: white;
   padding: 30px 30px;
 	margin: 20px auto 60px;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 929408d52084836f2a31977d52dec0af6e2a7cd9
 }
 li{
   margin: 0.5rem auto;
@@ -27,9 +31,7 @@ li{
 h1,
 h2 {
   font-weight: 700;
-  color: navy;
   margin-top: 2rem;
-  line-height: 1.15;
   line-height: 1.15;
   color: rgb(17, 84, 156);
 }
