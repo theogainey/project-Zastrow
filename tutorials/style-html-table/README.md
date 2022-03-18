@@ -1,0 +1,3 @@
+# [How To Style a Table with CSS](https://www.digitalocean.com/community/tutorials/how-to-style-a-table-with-css)
+
+This tutorial covers how to style a HTML table with CSS. In the past laying out a webpage often required the use of HTML tables. Now HTML tables are only used for tables of data like a spreadsheet. When styling an HTML table the same principles that apply to other elements still apply to the table. A good thing to keep in mind is that some selectors, such as `:nth-child()`, are often useful when styling a table with a repeating pattern. 
