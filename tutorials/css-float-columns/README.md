@@ -1,0 +1,3 @@
+[How To Use Float and Columns to Lay Out Content with CSS](https://www.digitalocean.com/community/tutorials/how-to-use-float-and-columns-to-lay-out-content-with-css)
+
+One way to create a layout in CSS is the use of the `float` and `columns` properties. When creating layouts the `columns` property is used to spread vertically long content across the horizontal axis. Additionally the `float` property is used to remove an element from the normal flow and place it to the left or right of a container. In modern web development the use of `float` and `columns` has largely been replaced by CSS grid and Flexbox.
