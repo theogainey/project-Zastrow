@@ -1,0 +1,3 @@
+# [How To Use Relationships to Select HTML Elements with CSS](https://www.digitalocean.com/community/tutorials/how-to-use-relationships-to-select-html-elements-with-css)
+
+In addition to class, id, and element selectors, CSS allows for selecting of elements based on relationships. These selectors allow for defining styles based on patterns of HTML elements. These are particularly useful when creating styles for a potentially varying number of elements.   
