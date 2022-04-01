@@ -1,2 +1,3 @@
 # [How To Load and Use Custom Fonts with CSS](https://www.digitalocean.com/community/tutorials/how-to-load-and-use-custom-fonts-with-css)
 
+Custom fonts are a common feature of modern webpages. Custom fonts can be added to a web page either from an external service or a self hosted source. Fonts that originate from an external service are loaded into page using the `link` HTML element. Additionally, self hosted fonts can be added to a web page by using CSS `@font-face` rules. 
