@@ -40,6 +40,10 @@ li {
  color: hsl(0, 65%, 51%);
 }
 
+li a {
+  display: block;
+}
+
 h1,
 h2 {
   font-weight: 700;
