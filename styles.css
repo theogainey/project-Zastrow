@@ -4,7 +4,6 @@
 
 body {
   font: 1rem/1.5 "Roboto", sans-serif;
-  background: rgb(248,250,252);
   background: linear-gradient(135deg, rgba(248,250,252,1) 0%, rgba(203,203,203,1) 100%);
   }
 div {
@@ -20,7 +19,7 @@ section {
 	margin: 20px auto 60px;
 }
 ol {
-  padding-left: 0rem;
+  padding-left: 1rem;
   list-style: none;
 }
 
@@ -33,6 +32,7 @@ li {
 
 [href] {
   color: rgb(17, 84, 156);
+  text-decoration: none;
 }
 
 [href]:hover,
@@ -64,10 +64,23 @@ hr {
 	margin: .25rem auto;
   border: none;
   background-color: hsl(0, 65%, 51%);
-};
+}
+
+ol li:nth-child(odd) a {
+  color: hsl(0, 65%, 51%);
+}
+
+ol li:nth-child(odd) a:hover,
+ol li:nth-child(odd) a:focus {
+  color: rgb(17, 84, 156);
+}
 
 @media (min-width: 30rem) {
   ol {
     columns: 2;
+    column-gap: 2rem;
+  }
+  li {
+    break-inside: avoid;
   }
 }
