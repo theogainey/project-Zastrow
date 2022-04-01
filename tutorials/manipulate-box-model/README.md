@@ -1,0 +1,3 @@
+# [How To Use the Display Property to Manipulate the Box Model in CSS](https://www.digitalocean.com/community/tutorials/how-to-use-the-display-property-to-manipulate-the-box-model-in-css)
+
+The CSS display property sets an HTML element's display type. Changing an element's display type changes that element's visual appearance. Knowing how these display types affect an elements visual appearance is a powerful tool for any CSS developer.  
