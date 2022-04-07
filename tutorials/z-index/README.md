@@ -1,0 +1,3 @@
+# [How To Create Layout Features with Position and Z-Index in CSS](https://www.digitalocean.com/community/tutorials/how-to-create-layout-features-with-position-and-z-index-in-css)
+
+In CSS the `position` and `z-index` properties allow for creating layouts where elements overlay on top of one another. These properties enable common features such as sticky navigation and elements placed over images. When used properly `position` and `z-index` can create unique layouts that do not disturbe the normal flow of the document.
