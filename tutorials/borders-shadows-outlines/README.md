@@ -1,0 +1,3 @@
+# [How To Style HTML Elements with Borders, Shadows, and Outlines in CSS](https://www.digitalocean.com/community/tutorials/how-to-style-html-elements-with-borders-shadows-and-outlines-in-css)
+
+Adding shadows and  borders to HTML elements is useful when giving elements visual definition. Border properties, such as `border-radius`, can be used to soften up elements and or provide better visual definition, `outline`.  Lastly, CSS shadows are useful for creating layering effects. 
