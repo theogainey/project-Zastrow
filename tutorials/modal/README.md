@@ -1,0 +1,3 @@
+# [How To Use Opacity and Transparency to Create a Modal in CSS](https://www.digitalocean.com/community/tutorials/how-to-use-opacity-and-transparency-to-create-a-modal-in-css)
+
+The CSS `opacity` and `transparency` properties are useful to add emphasis to an HTML element. Adding emphasis to an can be very useful when attempting visually direct a user to a specific element. Additionally, with creative use of `pointer-events` and element ids you can create an appearing/disappearing modal without JavaScript.
