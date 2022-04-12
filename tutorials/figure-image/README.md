@@ -1,0 +1,3 @@
+# [How To Style Figure and Image HTML Elements with CSS](https://www.digitalocean.com/community/tutorials/how-to-style-figure-and-image-html-elements-with-css)
+
+In HTML there are more elements than just `<img>` that can be used alongside CSS to create and style images. For example wrapping an `<img>` with the `<figure>` and `<figcaption>` element allows for styling an image alongside a caption. Additionally the `<picture> ` element allows for defining different images to display at different screen sizes. When styling images to scale in the predictable way it is useful to use the `object-fit` and `object-position` CSS properties. 
