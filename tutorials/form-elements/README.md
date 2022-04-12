@@ -1,0 +1,3 @@
+# [How To Style Common Form Elements with CSS](https://www.digitalocean.com/community/tutorials/how-to-style-common-form-elements-with-css)
+
+In CSS there are properties that when used correctly improve the usability of a form. One of these properties is  the `:checked ` pseudo-class, which can be used to make selected states for radio buttons and checkboxes. Another one of these properties is the `the ::placeholder` pseudo-element which can be used to help clarify what information goes into an input. 
