@@ -4,7 +4,6 @@
 
 body {
   font: 1rem/1.5 "Roboto", sans-serif;
-  background: linear-gradient(135deg, rgba(248,250,252,1) 0%, rgba(203,203,203,1) 100%);
   }
 div {
   box-sizing: border-box;
@@ -14,13 +13,12 @@ div {
 	margin: 20px auto 60px;
 }
 section {
-  background-color: white;
   padding: 30px 30px;
 	margin: 20px auto 60px;
 }
 ol {
   padding-left: 1rem;
-  list-style: none;
+  list-style: disc;
 }
 
 li {
@@ -30,53 +28,10 @@ li {
   text-transform: capitalize;
 }
 
-[href] {
-  color: rgb(17, 84, 156);
-  text-decoration: none;
-}
-
-[href]:hover,
-[href]:focus {
- color: hsl(0, 65%, 51%);
-}
-
 li a {
   display: block;
-}
-
-h1,
-h2 {
-  font-weight: 700;
-  line-height: 1.15;
-  color: rgb(17, 84, 156);
-}
-
-h1 {
-  font-size: 1.5rem;
-  text-align: center;
-  margin-top: 2rem;
-}
-
-
-#tutorials{
-  font-size: 1.25rem;
-  text-transform: uppercase;
-}
-
-hr {
-  height: 0.25rem;
-	margin: .25rem auto;
-  border: none;
-  background-color: hsl(0, 65%, 51%);
-}
-
-ol li:nth-child(odd) a {
-  color: hsl(0, 65%, 51%);
-}
-
-ol li:nth-child(odd) a:hover,
-ol li:nth-child(odd) a:focus {
-  color: rgb(17, 84, 156);
+  color: black;
+  text-decoration: none;
 }
 
 @media (min-width: 30rem) {
